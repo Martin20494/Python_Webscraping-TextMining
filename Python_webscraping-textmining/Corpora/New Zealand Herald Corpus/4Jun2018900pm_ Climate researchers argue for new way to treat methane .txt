@@ -1,0 +1,26 @@
+A new study has suggested a fresh way to account for the greenhouse gas that makes up much of New Zealand's contribution to climate change.
+In New Zealand, the release of methane from ruminant livestock like sheep and cattle - mainly belched - alone amounts to nearly a third of our emissions.
+But the way in which methane has been compared with other greenhouse gases, notably the longer-lived carbon dioxide, has been debated for decades.
+Professor Dave Frame, director of the Victoria University-based New Zealand Climate Change Research Institute, said the current approach came about by trying to find analogies with how scientists had approached comparisons between ozone-depleting gases.
+The Intergovernmental Panel on Climate Change (IPCC)'s first report, in 1990, suggested a "simple approach … to illustrate the difficulties inherent in the concept".
+"That approach ended up sticking - it's a classic case of path-dependence, really," Frame said.
+"But the way we do it masks some important differences between long-lived gases and short-lived gases."
+Frame said that difference mattered for countries with large agriculture sectors - and not only developed nations like New Zealand, but also developing ones.
+A just-published study co-authored by Frame and colleagues from Victoria, Oxford University and the University of Reading in Britain, and Norway's Centre for International Climate and Environmental Research, drew on a simple but well-tested climate model and accompanying range of emissions scenarios.
+Frame said the study mainly showed the way methane was currently accounted for - by using the idea of CO2 equivalence - exaggerated the long-term effects of methane on the climate.
+"We think we have a better way of making this comparison, that uses the same basic principles used today, but applies them differently to take account of the fact that methane has a vigorous heating effect, but is short-lived, while CO2 has a weaker but near-permanent effect on temperatures," Frame said.
+"Basically, CO2 is a stock pollutant that accumulates in the atmosphere, but methane is a flow pollutant that disappears about a decade after emissions occur."
+Frame argued that the current approach of comparing the gases posed a risk of prompting to target methane emissions instead of carbon dioxide.
+"If we make trade-offs that favour reductions in agricultural methane instead of fossil carbon, then we will be making a mistake from a climate change perspective," he said.
+"We think the new way of making the comparison opens up some interesting possibilities for policy innovations: better and fairer budgets, two-basket approaches and so on."
+The new study followed news that an independent Climate Change Commission, in the process of being established, would be tasked with looking at whether the agriculture sector should be folded into the New Zealand Emissions Trading Scheme (ETS).
+In his first report in March, new environment watchdog Simon Upton
+But Upton stressed the question of targets should not be confused with policy measures, such as the ETS, imposed to reach them.
+
+The sector has long resisted the move, and Federated Farmers strongly opposes livestock emissions being included until mitigation options become cheaper and overseas competitors face similar costs.
+The lobby group has argued ongoing improvements would bring down agricultural emissions in the meantime.
+Frame said the new study didn't go into policy options, but it had policy implications, "insofar as it suggests a better way of taking account of the stock nature of CO2 emissions and the flow nature of methane emissions".
+"We're certainly sharing our thoughts with policymakers here and in other countries where we think it's relevant."
+• Under present projections, the sea level around New Zealand is expected to rise between 30cm and 100cm this century. Temperatures could also increase by several degrees by 2100. Climate change would bring more floods; worsen freshwater problems and put more pressure on rivers and lakes; acidify our oceans; put even more species at risk and bring problems from the rest of the world. Climate change is also expected to result in more large storms compounding the effects of sea-level rise.
+• The latest greenhouse gas emissions inventory, which gives a picture of how much human-generated greenhouse gas is being emitted into and removed from our atmosphere, shows emissions as at 2016 have increased from 1990 levels by 19.6 per cent. New Zealand has pledged to slash emissions by 30 per cent below 2005 levels, and 11 per cent below 1990 levels, by 2030.
+• The new coalition Government has promised greater action, with a proposed new Climate Commission and Zero Carbon Act and goals for a carbon-neutral economy by 2050 and 100 per cent renewable energy by 2035.

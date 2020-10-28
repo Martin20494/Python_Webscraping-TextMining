@@ -1,0 +1,19 @@
+A revolutionary
+It is being hailed as one of the most significant advances in flight since the early experiments of the Wright brother more than 100 years ago, the
+The battery-powered plane, which was developed and tested by engineers at Massachusetts Institute of Technology in the US, is not kept in flight by propellers or a turbine but by an ionic wind system.
+The 4.8m aircraft is completely silent and colliding electrically charged air molecules provide the thrust needed to make it fly, opening the door to new generation of emissions-free passenger aircraft and silent drones.
+Professor Steven Barrett, lead researcher on the project at MIT in Massachusetts, told the
+He said: "This is the first time an aeroplane with no moving plants has flown. It's taken nine years of work to get here, and it's a hundred years since the ionic wind was first discovered".
+In the tests, the battery-powered unmanned aircraft, that weighs just 2.2kg, managed sustained flights of 60m in an MIT gym hall.
+Barrett was inspired to launch the project after watching sci-fi series
+"This made me think, in the long-term future, planes shouldn't have propellers and turbines," he said. "They should be more like the shuttles in
+Ionic wind, also known as electroaerodynamic thrust, was first identified in the 1920s and explored by scientists and engineers in the US and at Britain's Royal Aircraft Establishment at Farnborough in the 1960s, but they were only able to produce very low levels of thrust, insufficient for flight.
+To overcome this obstacle, the MIT test aircraft carries an array of thin wires strung beneath the front end of its wings. A high voltage current passed through the wires via a lightweight power converter strips negatively charged electrons from surrounding air molecules.
+This produces a cloud of positively charged ionised air molecules that are attracted to another set of negatively charged wires at the back of the plane, like a giant magnet attracting iron filings
+As they flow towards the negative charge, the ions collide millions of times with other air molecules, creating the thrust that pushes the aircraft forward.
+One of the biggest challenges faced by the MIT team was designing a power supply that would generate 40,000 volts from the plane's battery output, one of the biggest stumbling blocks in adapting the technology for large-scale commercial use.
+BREAKING:
+
+The silent aircraft has obvious applications as a stealth drone, as it would not be detected by infrared scanners. Defence giant Lockheed Martin has reportedly already expressed interest in the project.
+Guy Gratton, an aerospace engineer and visiting professor at Cranfield University, said: "It's clearly very early days: but the team at MIT have done something we never previously knew was possible, in using accelerated ionised gas to propel an aircraft.
+"Aeronautical engineers around the world are already trying hard to find ways to use electric propulsion, and this technology will offer something else that in the future may allow manned and unmanned aircraft to be more efficient, and non-polluting."

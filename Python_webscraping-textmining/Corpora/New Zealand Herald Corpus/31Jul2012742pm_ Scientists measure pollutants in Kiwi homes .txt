@@ -1,0 +1,17 @@
+Scientists are measuring levels of potentially dangerous pollutants inside Kiwi homes.
+A device invented by the National Institute of Water & Atmospheric Research (Niwa) to measure air quality, dubbed Pacman, is being used to test the air quality inside houses.
+Pacman stands for Particles, Activity and Context Monitoring Autonomous Node and takes the form of a small box filled with air-quality measuring instruments.
+A recent study by Health and Air Pollution in New Zealand found air pollution from fires, vehicles and industry kills 1170 people prematurely each year and carries an estimated $4.28 billion social cost.
+Poor air quality affects the cardiovascular system and can cause respiratory diseases.
+Niwa air quality researcher Guy Coulson said exposure to pollutants could be much higher indoors than outside.
+"We spend about 80 per cent of our time indoors, so we need to know more about indoor air quality," he said.
+The Pacman devices, which will be installed in up to 20 volunteer's homes, will monitor airborne particles, carbon dioxide levels, temperature and movement that can influence indoor air quality.
+Initial measurements had shown cooking and wood-burning stoves could lead to very high levels of indoor pollutants.
+"We want to know if exposure to short-lived, high levels of pollution are bad for you," Dr Coulson said.
+"Can one five-minute exposure to very high levels of pollution have an impact on health.
+"Pacman will be used to help us understand how many small airborne particles are in Kiwi homes, where they come from and what activities control their fate.
+The highest measured concentrations so far had come from the poor use of wood-burning stoves and solid wood-burners.
+Other sources of indoor pollution included incense, pesticides, pets and evaporation from solvents - pine scented cleaning products can react with sunlight and produce dangerous airborne particles.
+Dr Coulson said understanding air pollution in the home was difficult because everyone used their home in a unique way.
+"We aim to be able to tell whether the pollution comes from inside or outside the house, and to see if neighbours' wood-burners are influencing your indoor air quality as well."
+Niwa said amateur air quality scientists could build their own Pacman, designed with open-source hardware and software and files that could be downloaded from

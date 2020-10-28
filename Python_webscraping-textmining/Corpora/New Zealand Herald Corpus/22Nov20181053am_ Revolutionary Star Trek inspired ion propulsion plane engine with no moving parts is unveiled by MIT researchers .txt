@@ -1,0 +1,24 @@
+A revolutionary electronic aircraft propulsion system inspired by Star Trek has been tested on a working model for the first time.
+The five metre wingspan glider-like plane has no propellers, turbines or any other moving parts, and is completely silent,
+Instead, an 'ionic wind' of colliding electrically charged air molecules provides the thrust needed to make it fly.
+It could eventually prove to be the future of air travel, bringing an end to the noise nightmare of living under a flight path or close to a major airport.
+And unlike conventional planes, it also produces no greenhouse gases or other pollutants.
+In the tests, the battery-powered unmanned aircraft, that weighs just five pounds, managed sustained flights of 60 metres at an average height of just 0.47 metres.
+But its inventors believe that, like the early experiments of the Wright brothers more than 100 years ago, such small beginnings will eventually transform the face of aviation.
+In the near future, ion wind propulsion could be employed to power quiet drones, the team predicts.
+Further down the line, the technology could be paired with more conventional propulsion systems to produce highly fuel efficient hybrid passenger planes.
+Lead researcher Dr Steven Barrett, from Massachusetts Institute of Technology in the US, said: "This is the first-ever sustained flight of a plane with no moving parts in the propulsion system.
+"This has potentially opened new and unexplored possibilities for aircraft which are quieter, mechanically simpler, and do not emit combustion emissions."
+He revealed that he was partly inspired by the TV sci-fi series
+He was especially impressed by the show's futuristic shuttle crafts that skimmed through the air producing hardly any noise or exhaust.
+"This made me think, in the long-term future, planes shouldn't have propellers and turbines," said Dr Barrett.
+"They should be more like the shuttles in Star Trek that have just a blue glow and silently glide."
+The test aircraft, described in the journal Nature, carries an array of thin wires strung beneath the front end of its wings.
+These wires, which carry a positive charge of 20,000 volts, strips electrons, which have a negative charge, from air molecules.
+The cloud of positively charged molecules left behind rush towards negatively charged wires at the back of the plane.
+As they flow towards the negative charge, the ions collide millions of times with other air molecules, creating the thrust that pushes the aircraft forward.
+One of the biggest challenges was designing a power supply that would generate 40,000 volts from the plane's battery output.
+The team is working on ways of producing more ionic wind with less voltage.
+Test flights were made across the gymnasium at MIT's duPont Athletic Centre, the largest indoor space the scientists could find.
+Dr Barrett said: "It took a long time to get here. Going from the basic principle to something that actually flies was a long journey of characterising the physics, then coming up with the design and making it work.
+"Now the possibilities for this kind of propulsion system are viable."

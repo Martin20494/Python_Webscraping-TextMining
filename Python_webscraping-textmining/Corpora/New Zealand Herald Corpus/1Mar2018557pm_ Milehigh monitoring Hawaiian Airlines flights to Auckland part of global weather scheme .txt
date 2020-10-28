@@ -1,0 +1,34 @@
+High in the troposphere in the middle of the Pacific, a passenger aircraft bound for New Zealand is taking readings that could be crucial in predicting our climate future.
+A Hawaiian Airlines A330-200 has been kitted out with about 100kg of equipment that monitors ozone, carbon monoxide, temperature and water vapour at altitudes of around 12,000m as part of a global monitoring programme.
+The In-Service Aircraft for a Global Observing System (IAGOS) is a European-based programme and Hawaiian's participation fills an important missing link in the scheme, now into its 24th year.
+Until now, data covering the south Pacific has been missing and Hawaiian Airlines offered routes covering the mid-Pacific to the West Coast of the United States and the first regular trips between the Northern and Southern Hemisphere. The airline, which has been flying here for nearly five years, is this month stepping up services between Honolulu and Auckland, from three times to five times a week.
+The instruments are installed under the cockpit and attached to probes in the front-left fuselage which perform atmospheric sampling from takeoff - at about 150km/h - until the plane lands. The probes also provide information about icing conditions which may be useful in aircraft safety studies.
+IAGOS executive secretary Dr Hannah Clark says the real-time data collected from the aircraft complements satellite information to help build weather models
+''The data will be used to help validate some of the satellite observations - it also feeds into models for weather forecasting and modelling climate change and to look at the dispersal of pollution across the globe,'' she told the
+Other airlines including Lufthansa, Cathay Pacific, Iberia, Air France and Air China are also involved, flying mainly in the Northern Hemisphere. The European Union-funded non-profit project's main purpose is to monitor emissions from all human sources, including those from aviation, estimated to be responsible for about 2 per cent of carbon dioxide.
+Weather data is crucial for airlines, especially as they plan longer routes where wind and storm trends will help them decide how far they can fly. More accurate modelling helps airlines cope with extreme events such as those which have hit Air New Zealand's domestic network this year.
+The airline says it has been disrupted four times already in the first six weeks of this year, when historically it is significantly affected once or twice a year.
+Readings from the Hawaiian aircraft started in October and already the data has shown that as it gets closer to New Zealand there is a big increase in ozone.
+''Across the ocean in tropical areas we see very low concentrations of ozone and then as the land mass approaches and the latitude decreases, we get a lot more," says Clark.
+''Ozone in the stratosphere is a good thing as it filters out ultraviolet light.'' But in the lower part of the atmosphere it is a pollutant.
+''Breathing it in can affect your lungs and vegetation growth.''
+Clark says monitoring by airlines over Europe in August 2003 had picked up signs of a sudden and serious degradation in air quality, and a subsequent heatwave resulted in thousands of deaths.
+''It's all about trying to create a model where we can predict these kinds of events so we need these observations to make sure the model isn't doing anything ridiculous and try and improve these kinds of predictions.''
+The depletion of ozone in the stratosphere in the 1980s brought an associated health risk from increases in UV in sunlight reaching the Earth's surface. While the global production of ozone-depleting substances has decreased by 98 per cent - and the ozone hole has started to shrink in response - it is still regarded as important to study.
+GNS radiocarbon science leader Jocelyn Turnbull says she welcomes the expansion of the programme into the Pacific.
+''Commercial aircraft make an excellent platform for collecting trace gas measurements, since they can easily measure high in the atmosphere where it is otherwise hard to collect samples,'' she says.
+The Southern Ocean plays a key role in limiting the atmospheric buildup of carbon dioxide from human activities.
+''Yet the Southern Hemisphere atmosphere is sorely under-sampled and these new measurements will help to understand the processes that control how the Southern Ocean absorbs carbon dioxide and how it might respond in the future,'' says Turnbull.
+Associate professor of physical and theoretical chemistry at Waikato University, Joseph Lane, says IAGOS is largely focused on Europe, where the high density of cities means that the air being monitored is polluted.
+''Including routes over the Pacific will provide a useful comparison to air that is comparatively pristine.''
+The Air Transport Action Group is an environmental advocacy group and a spokesman says the ''flying test bed'' is valuable.
+''The 10 airlines which have been involved in IAGOS are not only helping climate scientists gain a better understanding of the impacts of climate change throughout the atmosphere, but also hopefully can further improve some of the uncertainties surrounding aviation's own contribution,'' he says.
+While the impact of CO2 emissions was well understood, scientists were less certain about emissions of nitrogen oxide, sulphur oxide and contrails from aviation and other sectors.
+• Long-range Airbus A330s and A340s have been chosen for the IAGOS project because of historical links between the researchers and the France-based manufacturer.
+• Probes and pitot tubes are installed near the nose of the aircraft to ingest gas, take temperature and water vapour.
+• The monitoring gear is typically installed during servicing layovers of planes, in the avionics bay on the left-hand side below the cockpit.
+• It fits into a space not usually used for other equipment and on a plate that means the aircraft doesn't have to be modified.
+• It is tested to ensure there are no adverse electromagnetic impacts.
+• The system starts automatically as soon as the aircraft is powered.
+• It is protected from overheating by a thermostat that stops the system if the avionic compartment temperature exceeds 45C.
+• Pilots can power off the system with a button in the aircraft's cockpit overhead panel.

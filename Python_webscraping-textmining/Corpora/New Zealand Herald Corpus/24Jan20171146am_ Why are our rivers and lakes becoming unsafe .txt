@@ -1,0 +1,76 @@
+How would you describe the big picture?
+Comparing our freshwater quality to that of other countries isn't really of interest to most New Zealanders.
+From my discussions with people, they are more concerned about the decline of water quality and associated safe recreational and food gathering activities in New Zealand.
+There is general public awareness that many swimming sites that were once safe are now regularly unsafe for swimming.
+Looking at the water quality data, nitrate pollution has been increasing markedly in surface and groundwaters in many parts of the country.
+This has occurred during a period when there has been intense scrutiny on point sources of pollution such as sewage and industrial outfalls.
+So, the gains that have been made by imposing stricter regulations on these point sources have been overtaken by nitrate losses from farmland, especially intensively farmed land.
+The National Policy Statement for Freshwater Management (NPSFM) stipulates that there can be no decline in water quality - regional councils are required to maintain or improve water quality.
+So, where the level of a contaminant in groundwater or in a stream, river, lake or estuary has been increasing, this can be seen as a failure by the regional council to safeguard water quality.
+
+The primary drivers of degrading of water quality are activities which cause the transfer of contaminants from land to groundwater, streams, rivers, lakes and estuaries.
+Contaminants are either nutrients - such as nitrogen and phosphorus contained in fertilisers, manure and sewage - which cause excessive plant growth; fine sediments which harm aquatic animals and plants; and other harmful chemicals such as pesticides, heavy metals and pharmaceuticals.
+Any activity that causes transfers of these substances from land to water contributes to water quality degradation.
+Activities that can contribute to the loss of water quality include the discharge of sewage, industrial effluents and storm water - water running off roads and urban areas; the loss of nutrients and soils from farming activities; and the erosion of soils due to deforestation and road works.
+Generally, point sources of pollution are better controlled and regulated than diffuse sources such as fertilisers that are spread on farmland, deforestation, other land disturbance and storm water run-off.
+Central government and regional councils are now working to control diffuse pollution, but this appears to be challenging for a number of reasons.
+So, water quality continues to decline in many parts of the country.
+An additional factor that degrades water quality is the abstraction of water from our cleaner rivers and aquifers.
+This reduces the dilution of downstream pollutants and results in higher levels of pollution downstream.
+Irrigation can also increase the leaching of agricultural contaminants to groundwaters and surface waters.
+
+The risk of declining water quality depends on how much contaminant enters waterways and on the resilience of the waters to the effects of pollution.
+Generally, large receiving waters - large lakes and rivers - have a greater potential to dilute contaminants.
+In addition, certain biological and chemical characteristics of lakes make them more or less ecologically resilient and sensitive to pollutants.
+For example, shallow lakes with lake beds covered by plants are able to absorb a lot of nutrient contaminants, like Lake Waihola.
+The plants also can reduce the recycling of nutrients from the lake bed into the water column, where algal blooms could occur.
+Lakes which maintain oxygen in their bottom waters throughout the year - like Moke Lake - are more resilient to nutrient pollution than lakes in which oxygen is depleted from bottom waters - like Lake Hayes, which consumes all oxygen from its bottom waters during summer.
+Scientists are studying various characteristics of lakes that could make them particularly sensitive or resilient to pollution.
+Lake managers need this information for planning purposes.
+Sites in lowland areas tend to be at risk of pollution because lowland areas are preferable for intensive farming.
+Urban areas are at risk of pollution because they tend to be highly modified and they tend to receive storm water which collects and carries urban contaminants directly into waterways.
+
+In the past, there was less concern for freshwater health and some government policies actually encouraged bad land use practices such as overgrazing, over-use of superphosphate and forestry on unsuitable hill country where soil erosion was severe.
+In addition, sewage and dairy shed effluent used to be released into lakes and rivers without adequate treatment.
+This has resulted in a "legacy" issue for some lakes, where the sediments of the lakes are contaminated with high historical inputs of nutrients and sediments.
+Unfortunately, in some cases - like Lake Hayes - the legacy nutrient contaminants are taking decades to flush out of the lake or be permanently buried in the lake bed and, in the meantime, these legacy nutrients are recycled within lakes, feeding algal blooms.
+This results in a resistance to efforts to improve water quality, causing substantial delays in the time it takes to clean up the lakes.
+In addition, because of the recycling of legacy nutrient that occurs, the successful clean up of historically polluted lakes requires nutrient inputs from the catchment to be reduced to very low levels.
+So, clean-ups can be slow and very costly, encouraging people to look for technological fixes to speed recovery, such as the addition of phosphorus-binding chemicals to lakes, like Lake Rotorua.
+
+Many native freshwater fish tend to be quite resilient to a moderate amount of nutrient and sediment enrichment of freshwaters.
+The main threats to native fish are trout and perch due to predation, irrigation due to the loss of stream or river water and habitat, overharvesting and dams and other barriers to migration and the completion of fish life cycles.
+
+Water quality monitoring in New Zealand is currently at a bare minimum level - and some councils are not even achieving that.
+Improvements need to be made in the number of lakes and rivers that are monitored; the number of sites monitored in bigger lakes; the frequency of monitoring - at least monthly; the use of ecological health indicators as opposed to simply monitoring water chemistry; the use of new monitoring technologies, like continuous sensors and lake buoys, for high frequency monitoring; the monitoring of invasive species; and the sophistication of the analysis of the water quality data collected.
+Some advances are being made but unfortunately these are happening very slowly.
+In New Zealand, we have tended to undervalue our freshwater resources and so councils tend to resist spending money on freshwater monitoring.
+The recent heightened public awareness of the plight of our freshwaters will hopefully encourage councils to lift their game with respect to increasing their investment in freshwater monitoring.
+
+Contaminant loads to waters increase when rivers and lakes are flooding.
+Floods are when the effects of poor land use practice are particularly apparent in our water bodies.
+So, people should avoid swimming during periods of high water levels.
+Indicators of faecal bacteria (E. coli) readings from many commonly used bathing sites are reported on
+
+The risk of contracting water-borne illness depends not only on the risk of contamination but also on the type of pre-treatment applied to the source water.
+In the wake of the Havelock North catastrophe, communities which do not chlorinate their drinking water are being encouraged to do so.
+However, there is some resistance to do so in some communities.
+With adequate chlorination, the risk of water-borne illness contracted from municipal drinking water is very low.
+In communities where no chlorination of drinking water occurs, people may use domestic water filters and if these are able to filter or kill harmful bacteria and protozoans and if filters are replaced at recommended time intervals, then the users of these filters should be quite safe.
+If people don't use domestic filters on untreated drinking waters, then the risk of contamination depends on how well the water catchment is protected from faecal pollution.
+As we saw in Havelock North, even when councils are working to protect the integrity of drinking water catchments, contamination problems can occur, so the risk of contracting a water-borne illness will be present in unchlorinated/unfiltered drinking water.
+Increasing the intensity of paddock-based grazing will increase the environmental burden of faecal pathogens and the risk of pathogen contamination.
+Alternatively, the indoor housing of stock requires the disposal of manure and if these are untreated and sprayed back on the land, then there is also a risk of faecal contamination of any unprotected drinking water sources.
+The outbreaks of toxic cyanobacterial blooms - phormidium, anabaena - seems to be increasing in New Zealand and these represent another significant risk to human health via surface water drinking water supplies that are exposed to a risk of nutrient contamination, as seen at the Opihi River and Timaru water supply.
+
+Given that Governments and regional councils in New Zealand are pursuing a vigorous growth agenda toward GDP, agricultural development, tourism and immigration, freshwater scientists are increasingly focusing their research on understanding the sensitivity and resilience of different freshwater ecosystems to increasing human activities.
+By understanding the characteristics and mechanisms of sensitivity and resilience of freshwaters, the scientists can help planners decide which catchments can absorb more development and which ones need restrictions on development.
+With increasing trade and tourism, New Zealand is exposed to increasing numbers of invasive aquatic species and freshwater scientists are working to identify and understand how these species spread and how they negatively affect our freshwater ecosystems and water quality.
+Scientists are also studying how climate change will affect our freshwater systems and how climate change might worsen negative effects of the growth agenda on freshwaters.
+
+Yes, it is possible to reverse degradation of water quality.
+However, generally the clean-up effort required is great and the cost may be more expensive than any financial gain made in the degradation of the waterway.
+Remarkably, in Europe, the nutrient status of many lakes, like Lake Constance, has been aggressively restored to near pristine conditions, while the economy and immigration has continued to grow.
+This has been achieved due to the use of expensive infrastructure and state-of-the-art water treatment systems - systems which render wastewater drinkable.
+Generally, however, the degradation of lakes and rivers leads to changes in the species which inhabit them, and this may permanently alter the ecosystems, even if contaminant levels are restored to pristine levels.
+So, while water quality can be restored and algal blooms reduced at great cost, some changes in the species that inhabit lakes, rivers and estuaries - algae, aquatic plants, invertebrates and fish - may not be reversed in the process.

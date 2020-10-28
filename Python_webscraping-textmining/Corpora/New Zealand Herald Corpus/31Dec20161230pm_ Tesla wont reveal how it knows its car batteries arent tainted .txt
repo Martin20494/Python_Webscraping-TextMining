@@ -1,0 +1,32 @@
+Of the lofty corporate mission statements issued from Silicon Valley, Tesla's stands out, with co-founder Elon Musk describing his venture as nothing less than an attempt to help avert a climactic apocalypse.
+The world's reliance on fossil fuels is the "dumbest experiment in history," he says, and describes the company's mission as a planetary remedy: "to accelerate the advent of sustainable transport by bringing compelling mass market electric cars to market as soon as possible."
+
+He is not alone. The US government and many environmentalists also view electric vehicles as key to combating climate change.
+But the electric-vehicles revolution Musk and others envision depends on an immense escalation in the world's capacity to manufacture lithium-ion batteries, and the race for the raw materials to build those batteries is creating strains for people and the environment far from Silicon Valley, a
+The series of
+The mining companies tied to these problems supply some of the largest manufacturers of lithium-ion batteries,
+In response to these concerns, Tesla denied that the sources of its battery materials are tainted by abuses. At the same time, the company declined to identify what those sources are.
+"Tesla is committed to ensuring all supply chain practices are safe and humane, that workers are treated with respect and dignity, and that manufacturing processes are environmentally responsible," according to a statement from the company.
+Samsung, LG Chem and other consumer companies likewise reliant on lithium-ion batteries have issued similar assurances.
+Yet
+Some nonprofit organizations trying to correct abuses in the global supply chain say they believe that few companies take the care required to trace their raw materials back to their source, let alone correct any abuses they would find there.
+"Most consumers have an expectation that their products are sourced responsibly," said Patricia Jurewicz, director of the Responsible Sourcing Network, a group that seeks to correct human rights abuses in the way raw materials are harvested and mined. But "it's like we are walking around with our hands over our eyes."
+"All the brands we know are so far removed from the abuse," Jurewicz said.
+"They don't buy raw materials. They don't even buy processed materials in the form of metals. There may be anywhere from three to seven tiers of suppliers and sub suppliers."
+While the abuses in the production of raw materials span many industries - from food to textiles to high tech - the anticipated growth in the electric-vehicle industry means the demand for the materials for lithium-ion batteries may be especially acute. The demand for raw materials for lithium-ion batteries is expected to more than triple over the next 10 years, according to some industry analysts.
+While many consumers may assume their products emerge from companies that treat workers and the environment well, there are few legal requirements for companies to track their supply chains.
+The best known effort to regulate mining is the US law regarding four "conflict minerals" from the Congo region:
+The 2010 legislation, known as the Dodd Frank Wall Street Reform and Consumer Protect Act, aimed to stem the flow of money from those materials to Congo's militias and requires US companies to attempt to trace the sources of these materials.
+But other minerals are not part of those requirements, leaving consumers to rely on company assurances that their supply chains are managed in a way that protects workers and the environment.
+It is difficult, and in most cases impossible, to know whether major brands in the United States are fulfilling their promises.
+As an example, The Post traced ways that disputed raw materials are reaching or could be reaching Panasonic, the company that supplies batteries for Tesla.
+Graphite from polluting Chinese factories is sold to BTR, a Chinese company, that supplies Panasonic. Panasonic said it found and corrected a problem in its graphite supply chain.
+Lithium from Sales de Jujuy, a mining company in Argentina that some indigenous communities say has acted unfairly, was anticipated to be sold to Panasonic, according to a news release from the operators.
+Cobalt from Zhejiang Huayou, a Chinese company accused of buying cobalt mined under harsh conditions in Congo, is shipped to Taiwan, according to the news accounts. In Taiwan, a company called Coremax was a supplier of Sumitomo in the past decade, according to company documents, and Japan-based Sumitomo supplies Panasonic.
+In each case, Tesla denied that the products from those companies reached their batteries.
+So if not from those companies, where does Tesla gets its graphite, cobalt and lithium? Tesla declined to identify sources.
+As evidence of its concern that suppliers operate cleanly, Tesla officials note that the core of its mission involves improving the environment, and that it has taken steps to make sure that the inputs to its forthcoming battery "Gigafactory" in Nevada will be clean.
+It will be powered in part by solar energy, they say, and the project will allow it to select and purchase its own raw materials rather than relying on battery suppliers to make those decisions.
+A few companies, meanwhile, have begun to respond to pressure for more disclosure and some industry groups have initiated efforts to promote industry standards for the sourcing of cobalt. Apple annually publishes a list of its top suppliers, a rare move in an industry that prefers to keep supply details secret. And Umicore, a major supplier of battery parts, has hired the accounting firm PricewaterhouseCoopers, to judge whether it has adhered to its standards for making sure its cobalt is sourced responsibly.
+But these efforts are the exception within the many industries reliant on lithium-ion batteries.
+"It's important for companies to demonstrate what they're doing and go beyond a mere verbal commitment," Jurewicz said. "Companies that do anything beyond what is required by the [Dodd-Frank] law are few and far between."

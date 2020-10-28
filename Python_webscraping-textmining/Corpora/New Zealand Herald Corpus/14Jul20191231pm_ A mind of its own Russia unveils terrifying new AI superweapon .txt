@@ -1,0 +1,31 @@
+The race to incorporate artificial intelligence in modern weapons threatens to outstrip the technology's capabilities — and the world's ability to control them.
+The Commander-in-Chief of Russia's air force, Viktor Bondarev, has told a gathering at the MAKS-2017 international airshow his aircraft would soon be getting cruise missiles with artificial intelligence capable of analysing their environment and opponents and make "decisions" about altitude, speed, course — and targets.
+"Work in this area is under way," Russian news agency TASS reports Tactical Missiles Corporation CEO Boris Obnosov as adding.
+"As of today, certain successes are available, but we'll still have to work for several years to achieve specific results."
+While neither indicated which missiles were slated to get such enhanced artificial intelligence, there are two apparent contenders among the "super weapons" President Vladimir Putin bragged about last year: the "Avangard" hypersonic glide vehicle and the "Burevestnik" nuclear-powered cruise missile.
+Much modern weaponry is already capable of making choices — such as the automated Gatling guns designed to react and shoot-down incoming missiles in the blink of an eye.
+These "choices", however, are generally minimal.
+Mr Obnosov told TASS that Russia had observed US cruise missiles used against targets in Syria demonstrating the ability to redirect themselves after "realising" their original objective had already been destroyed.
+But being able to identify and sort through targets of opportunity takes mechanical decision-making to a whole new level. It also opens up an ethical can of worms.
+Artificial intelligence has one major flaw: It's not terribly smart.
+It can be incredibly fast and efficient at following and applying a set of learned rules. But it has almost no ability to adapt to unexpected situations.
+Which is why removing humans from the decision-making "loop" remains a contentious issue.
+In September last year, the European Union called for the creation of an international treaty banning "killer robots".
+"I know that this might look like a debate about some distant future or about science fiction," the EU chief of foreign and security policy said at the time.
+"It's not."
+But China, Russia, Israel, South Korea and the United States rejected the idea.
+Both of Russia's new "superweapon" missiles would benefit immensely from artificial decision-making capabilities.
+But first, they have to fly.
+A US intelligence agency report suggests Moscow will only be able to produce a limited number of its advanced new hypersonic warhead, Avangard.
+And its nuclear-powered cruise missile Burevestnik (dubbed "Skyfall" by NATO) — touted as having the ability to weave its way around the whole world to avoid detection — has experienced catastrophic, polluting failures.
+In the case of the Avangard, Russia reportedly can't produce heat-resistant carbon fibre components necessary for the weapon to remain functional at speeds of up to 20 times the speed of sound. Flight tests have revealed the material was of insufficient quality to guarantee surviving the meteoric heat of hypersonic flight.
+The Kremlin is yet to find an alternative producer.
+Nevertheless, the US intelligence agency told CNBC it expected Russia to press ahead with construction of the weapon, with its initial operational deployment as soon as next year.
+The Burevestnik nuclear-powered cruise missile has also reportedly only met with limited success. Nuclear debris had to be pulled from the Barents Sea in 2017 after a failed launch from an Arctic weapons testing site on the island of Novaya Zemlya. Another test in January this year was determined to have been "partially successful".
+Russia isn't the only nation seeking to give its weapons artificial intelligence decision-making. And its application is extending beyond missiles and drones.
+The US Army has issued a call to build what it calls ATLAS (advanced targeting and lethality automated system).
+It says it wants artificial intelligence and machine learning to be installed on tanks and armoured vehicles, allowing their weapons to "acquire, identify, and engage targets at least 3X faster than the current manual process".
+The ATLAS call for submissions says "parts of the fire control process" will be operated by artificial intelligence, leaving a human finger on the trigger.
+US law currently requires a human must be involved in any decision to open fire. But as weapon speeds increase and response times diminish, the pressure to fully automate the process is growing.
+This raises serious questions.
+Will AI be able to instantaneously identify non-combatants (such as civilians, refugees or surrendering troops)? And where will the legal liability for any decision-making failure lie? Government? The military procurement office? The tank crew? Or the manufacturer?

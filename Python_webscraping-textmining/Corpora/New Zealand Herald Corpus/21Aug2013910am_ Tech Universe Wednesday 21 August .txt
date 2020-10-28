@@ -1,0 +1,8 @@
+Every day there are more devices and gadgets available to us that do interesting or useful things. Every device needs a source of power though, so battery technology is also continuously developing. Now engineers at the University of Washington have created a wireless communication system that enables devices to interact with each other
+or cables for power. The ambient
+reflects existing cellular and TV signals already in the air. Antennas detect, harness and reflect a TV signal, which is then picked up by other similar devices. That means a whole a network of devices and sensors could communicate without a battery in sight. One application could be sensors monitoring a bridge or other structure that could send an alert back to base. I bet someone's going to claim they own those ambient RF signals and start charging for their use.
+
+
+
+
+Miraz Jordan,

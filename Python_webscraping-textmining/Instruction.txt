@@ -1,0 +1,177 @@
+(The instructions is for Mac users and might be different to Window users)
+
+The stop_list is applied to both the Guardian corpus and the New Zealand Herald corpus. 
+Instructions: Settings -> Tool Preferences -> Word List -> Word List Range, choose 'Use a stoplist below' -> Open -> Find 'NLTK_english_stoplist.txt' -> Open -> Apply
+
+
+A. The Guardian corpus
+
+A.1. Open file: Open File(s)... -> Find 'Guardian corpus', choose all files -> Open -> Under Word List tab, click Start
+
+A.2. Finding 'air pollution' and 'plastic pollution': Under Clusters/N-Grams tab
+
+	- Type 'pollution' into Search Term box
+
+	- Cluster Size is 2 for both Min and Max
+
+	- Min.Freq is 1, Min.Range is 1
+
+	- Sort by Freq
+
+	- Search Term Position is untick for both 'On Left' and 'On Right'
+
+=> 'Air pollution' is at rank 1, 'plastic pollution' is at rank 2.
+
+
+A.3. Air pollution
+
+* As to cluster 3 - 'Outdoor air pollution': Under Clusters/N-Grams tab
+
+	- Type 'air pollution' into Search Term box
+
+	- Cluster Size is 3 for both Min and Max
+
+	- Min.Freq is 1, Min.Range is 1
+
+	- Sort by Freq
+
+	- Search Term Position is untick for both 'On Left' and 'On Right'
+
+=> 'outdoor air pollution' is at rank 22. Click on 'outdoor air pollution' -> The screen will automatically change to Concordance tab
+
+	- Kwic Sort: Level1 (1L), Level2 (2L), Level3 (3R) - (can be random because the 'life', 'death', and quantification lie randomly around 'outdoor air pollution)
+	- Search Window Size: 150 
+
+-> Click Start
+
+
+* As to cluster 5 - 'Illegal levels of air pollution': Under Clusters/N-Grams tab
+
+	- Type 'air pollution' into Search Term box
+
+	- Cluster Size is 5 for both Min and Max
+
+	- Min.Freq is 1, Min.Range is 1
+
+	- Sort by Freq
+
+	- Search Term Position is untick for both 'On Left' and 'On Right'
+
+=> 'Illegal levels of air pollution' is at rank 1. Click on 'illegal levels of air pollution' -> The screen will automatically change to Concordance tab
+
+	- Kwic Sort: Level1 (1L), Level2 (2L), Level3 (3L) - (can be random because the main ideas lie randomly around the phrase)
+	- Search Window Size: 300
+
+-> Click Start
+
+
+A.4. Plastic Pollution
+
+* Finding 'plastic pollution in' and 'of plastic pollution': Under Clusters/N-Grams
+
+	- Type 'plastic pollution' into Search Term box
+
+	- Cluster Size is 3 for both Min and Max
+
+	- Min.Freq is 1, Min.Range is 1
+
+	- Sort by Freq
+
+	- Search Term Position is untick for both 'On Left' and 'On Right'
+
+=> 'of plastic pollution' is at rank 1, 'plastic pollution' is at rank 2. Click on on of each respectively -> The screen will automatically change to Concordance tab
+
+* As to 'plastic pollution in'
+
+	- Kwic Sort: Level1 (4R), Level2 (1L), Level3 (2L)
+
+	- Search Window Size: 300
+
+-> Click Start
+	
+
+* As to 'of plastic pollution'
+
+	- Kwic Sort: Level1 (1L), Level2 (2L), Level3 (3R)
+
+	- Search Window Size: 300
+
+-> Click Start
+
+
+B. The New Zealand Herald corpus
+
+B.1. Open file: Open File(s)... -> Find 'New Zealand Herald corpus', choose all files -> Open -> Under Word List tab, click Start
+
+B.2. Air pollution
+
+* As to cluster 3 - 'Outdoor air pollution': Under Clusters/N-Grams tab
+
+	- Type 'air pollution' into Search Term box
+
+	- Cluster Size is 3 for both Min and Max
+
+	- Min.Freq is 1, Min.Range is 1
+
+	- Sort by Freq
+
+	- Search Term Position is untick for both 'On Left' and 'On Right'
+
+=> 'outdoor air pollution' is at rank 11. Click on 'outdoor air pollution' -> The screen will automatically change to Concordance tab
+
+	- Kwic Sort: Level1 (1L), Level2 (2L), Level3 (3R) - (can be random because the 'life', 'death', and quantification lie randomly around 'outdoor air pollution)
+	- Search Window Size: 150
+
+-> Click Start
+
+
+* As to cluster 4 - 'level(s) of air pollution': Under Clusters/N-Grams tab
+
+	- Type 'air pollution' into Search Term box
+
+	- Cluster Size is 4 for both Min and Max
+
+	- Min.Freq is 1, Min.Range is 1
+
+	- Sort by Freq
+
+	- Search Term Position is untick for both 'On Left' and 'On Right'
+
+=> 'level of air pollution' is at rank 7. However there might be 'levels of air pollution'. Click on 'level of air pollution' -> The screen will automatically change to Concordance tab.
+
+	- Click on 'Advanced' button next to Search Term box -> Advanced Search screen will appear -> Tick on "Use search term(s) from list below" -> Below that, type 2 lines of 'level of air pollution' and 'levels of air pollution' -> Click 'Apply'
+
+	- Kwic Sort: Level1 (1L), Level2 (2L), Level3 (3L)
+
+	- Search Window Size: 300
+	
+-> Click Start
+
+B.3. Plastic pollution
+
+* As too 'plastic pollution in': Under Concordance tab
+
+	- Type 'plastic pollution in' into Search Term box
+
+	- Kwic Sort: Level1 (1L), Level2 (2L), Level3 (3L) - (can be random because the main ideas lie randomly around 'plastic pollution in')
+
+	- Search Window Size: 300
+
+-> Click Start
+
+* As too 'of plastic pollution': Under Concordance tab
+
+	- Type 'of plastic pollution' into Search Term box
+
+	- Kwic Sort: Level1 (1L), Level2 (2L), Level3 (3L) - (can be random because the main ideas lie randomly around 'of plastic pollution')
+
+	- Search Window Size: 300
+
+-> Click Start
+
+
+
+
+
+
+

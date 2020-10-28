@@ -1,0 +1,52 @@
+It's done openly and mostly unchecked, and the reason why might surprise you.
+The background: with current fuels, engines in cars, vans, utes and heavy vehicles produce microscopic particulate matter or soot in their exhausts and nitrous oxides.
+They are silent killers, with a 2012 government-sponsored report - the most recent - linking 256 premature deaths to air pollution.
+To reduce harmful emissions, vehicle makers have come up with several technologies.
+They include catalytic converters, diesel particulate filters (DPFs), exhaust gas recirculation (EGR), mass airflow sensors and injecting urea (AdBlue) into the exhaust system and sophisticated engine management computers.
+Together, they reduce deadly emissions but add complexity and require maintenance that can be expensive.
+A common complaint among diesel vehicle owners is that DPFs have to be "regenerated".
+This involves taking the vehicle for a spin on the motorway for 20 minutes or so, at high speeds, to burn off the soot that has accumulated in the DPF.
+If regeneration isn't done, the car can go into "limp mode", requiring a garage visit. The filters can also become clogged up, requiring dismantling for cleaning or full replacement, which can cost thousands of dollars.
+Many people instead remove the DPF and EGR systems, ditto the AdBlue tank and injectors (on new cars, doing so invalidates the factory warranty).
+I was quoted between $1050 to $1900 for DPF/EGR system removal. One garage insisted that I could get a Warrant of Fitness for a car with the DPF removed, but another one wasn't so sure.
+"It's supposed to have it," the person I contacted said. He went on to suggest that I could still remove the DPF by replacing the whole exhaust system, and keep the existing one to return to stock when needed.
+Asked if warrant inspectors check for DPFs being present in cars that should have them, the person said: "Well, that's the thing. Some do, some don't."
+VW NZ passenger vehicles product manager Jordan Haines explained that by looking under the vehicle, you can see if the DPF is missing from the exhaust system.
+However, a removed DPF is not always so easy to spot.
+"Sometimes the DPF casing is opened up and the filter inside is removed," Haines said.
+Closing the metal DPF casing requires welding, and Haines said this would be visible.
+The engine control system in vehicles monitors DPFs using sensors. To stop the ECU from turning on the "check engine" light and putting the car into limp mode, the DPF has to be "deleted" from the onboard computer system.
+This is easy to do with programmers bought online that let you tweak various settings and values.
+Additionally, while removing the DPF/EGR you can jack up the power of cars by changing fueling values in the ECU.
+Substantial increases in engine power and torque are promised, along with improved fuel efficiency. That seems to be true, but comes with a massive increase in particulate matter and Nox emissions, up to 20 times more.
+The programmers can also "correct mileage", as in overwriting the odometer reading displayed on the dashboard which could be used to boost the value of resold cars and to cheat on road user charges.
+Haines said mileage tampering can be picked up from other ECUs in cars recording travelled distances, and a scan would show a fault if the readings disagree. Tampering with mileage to avoid RUCs means up to a $3000 fine if you're caught.
+We don't know how common it is to remove emission control equipment in New Zealand, and it might actually not be disallowed, the Ministry of Transport's manager of environment, emissions and adaptation Glen-Marie Burns explained.
+"You are correct in interpreting that the 2007 Rule does not explicitly ban tampering.
+Clause 3.2 of the Vehicle Exhaust Emissions Rule (2007) says: a vehicle's exhaust emissions system or exhaust control equipment must not be modified so as to prevent the vehicle being able to pass the metered test prescribed in Schedule 2," Burns said.
+"This is because there is no internationally agreed definition of 'tampering'. One person's tampering is another person's aftermarket repair," Burns added.
+Any modifying or repairing vehicles' exhaust emissions equipment must be done so that they comply with the standard to which they were built, the 2007 rules state.
+If there's doubt as to whether the modification is appropriate, the vehicle could be required to undergo an emissions test to show that it's compliant.
+That would seem to catch things like DPF removal but not so fast: first, the provision only applies to vehicles that are required to comply with a specific standard when they enter the New Zealand fleet, Burns said.
+It does not apply to vehicles that are already part of the in-service fleet however.
+Going down that rule rabbithole is pointless however. The New European Drive Cycle (NEDC) test is anything but, as it's from the 70s and was last updated in 1997. As emissions tests go, it doesn't tell us anything much useful.
+"Unfortunately, the metered tests set out in the rule are now known to be ineffective at detecting modifications that increase emissions of harmful pollutants as they don't test for the pollutants that are affected.
+"It is important to note that the absence of an effective legislated test is a global concern.
+"Several large international research projects have failed to identify low cost emissions tests to consistently detect vehicles that are high emitting when on the road," Burns said.
+The tests are also unable to account for inconsistencies between stated manufacturer emissions levels and those observed on road, Burns added.
+"Because of this, it would be unable to assert whether high in-service emissions were representative of tampering, or how the vehicle came from the factory," Burns said.
+This means that the only test a vehicle can fail currently is the visual one: if the engine smokes for five seconds or longer while running at half speed, you won't get a WoF.
+Updates to the Vehicle Emissions Rule are under consideration, and the ministry is investigating if computer scan tools should be mandatory for WoF or Certificate of Fitness checks.
+This would test for both emissions and safety fault codes, and to check odometer readings. The work for that is scheduled for 2021/2022.
+What that work will result in remains to be seen, but even though it's possibly fine to remove emissions reduction gear, Trade Me isn't dubious about the practice.
+Its head of motors, Alan Clark, said that Trade Me is investigating the matter further.
+"We felt that these listings could be potentially misleading to some of our members which is why we have removed them from our site," Clark said.
+Indeed, Trade Me took down four listings of cars, utes and a heavy Kenworth diesel truck that advertised their DPFs had been removed.
+Associate transport minister Julie Anne Genter didn't address the issue of vehicle owners removing emissions control equipment, but instead pointed to the mooted Clean Car Discount as the way forward to dramatically reduce pollution.
+This will offer an $8000 subsidy for NZ-new electric cars, and $3000 for fuel-efficient petrol vehicles. Genter said there's evidence that the countries that have most successfully reduced climate polluting emissions from cars have done so by combining fuel efficiency standards with price incentives like the Clean Car Discount.
+The CCD subsidy details are not yet worked out, and won't apply to light vehicles until 2021 if it arrives.
+For now, diesel vehicles like utes that are very popular as company cars due to favourable tax treatment, and heavy lorries and machinery can pollute almost indiscriminately thanks to loopholes in emissions testing rules.
+"It's disappointing to see people put their car's performance ahead of the environment and people's health, but it also illustrates how weak New Zealand's tailpipe emissions standards are compared to other countries," University of Auckland physics professor Shaun Hendy said.
+"We have an older, dirtier vehicle fleet than other advanced economies and we seem to like it that way.
+"But to meet our 2050 targets we will need to stop importing internal combustion engine vehicles around 2030.
+"Personally, I'll be looking forward to cleaner air on my bike to work!" Hendy said.
