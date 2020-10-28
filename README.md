@@ -1,5 +1,5 @@
 # Python_Webscraping-TextMining
-Python - Webscraping and Text Mining
+Python - Webscraping "pollution" articles from New Zealand Herald and Guardian newspapers to do the Text Mining and Text 
 
 This corpus analysis is about to find out how the pollutions were represented in New Zealand Herald and Guardian. The project was processed based on Python (os, re, requests, and BeautifulSoup) and AntConc to collect the texts and find out the unique patterns in the way the articles were written. Following that, the folder includes 5 files:
 
